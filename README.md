@@ -1,4 +1,4 @@
-# wiki_app
+# Wiki app
 
 A demo Flutter project.
 
